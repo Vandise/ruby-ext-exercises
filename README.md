@@ -1,5 +1,5 @@
 # Ruby Extension Exercises.
-This repository contains solutions to the challenges in Brian Hogan's "Exercises for Programmers" as Native C(and/or C++) Extensions to the Ruby.
+This repository contains solutions to the challenges in Brian Hogan's "Exercises for Programmers" as Native C(and/or C++) Extensions to Ruby.
 
 ## About
 Each directory is appropriately labeled to match the challenge title in the book. For example: in chapter 2, the first challenge is called "Saying Hello", thus the directory is named `01_saying_hello`. The solution, without the additional challenges, is labeled as `constraint`. The additional challenges are numbered as they appear in the book (ie `01_saying_hello/01_challenge`).
